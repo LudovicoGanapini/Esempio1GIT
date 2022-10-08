@@ -24,6 +24,7 @@ namespace GIT_es1
         {
             InitializeComponent();
         }
+        //Bottone per il calcolo della media
 
         private void btnMedia_Click(object sender, RoutedEventArgs e)
         {
